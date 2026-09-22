@@ -1,5 +1,11 @@
 # Matteo's System Repair
 
+## Easy Download
+
+For the easiest way to get the program, open the latest **Release** and download `Matteos-System-Repair.bat` from **Assets**.
+
+No installation is required. Simply download the file and run it. Windows will request Administrator privileges when the program starts.
+
 **Version 1.0.0**
 
 Matteo's System Repair is a Windows system repair and health check utility that provides an easy-to-use menu for running built-in Windows diagnostic and repair tools.
